@@ -1,0 +1,2 @@
+# bypassuac
+bypass uac
