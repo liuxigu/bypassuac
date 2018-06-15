@@ -24,12 +24,18 @@
     <ClInclude Include="bypassuac.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="priv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="bypassuac.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="priv.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
