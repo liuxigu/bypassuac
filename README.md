@@ -11,6 +11,10 @@ bypassuac.exe "/c powershell -c "aaaa"
 
 ![](https://raw.githubusercontent.com/liuxigu/bypassuac/master/uac.png)
 
+***
+
+![](https://raw.githubusercontent.com/liuxigu/bypassuac/master/getsystem.png)
+
 
 ***
 
@@ -21,3 +25,7 @@ bypassuac.exe "/c powershell -c "aaaa"
 patch peb后,然后调用IFileOperation对象的某个接口的shellexecute函数,原因在老外的文章里写了.      
 具体细节看代码吧.     
 适用于Win7-Win10     
+
+***
+
+加了一段getsystem的代码,原理跟msf里的getsystem一样.
