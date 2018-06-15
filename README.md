@@ -1,11 +1,12 @@
 # bypassuac
 
 
-###usage:
+###example:
 
 ```
 bypassuac.exe "/c echo 1 >> c:\\3333"
 bypassuac.exe "/c powershell -c "aaaa"
+bypassuac,exe system
 ```
 
 
